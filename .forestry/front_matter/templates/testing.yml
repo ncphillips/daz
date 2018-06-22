@@ -12,3 +12,5 @@ fields:
 - type: number
   name: test_1
   label: test 1
+pages:
+- content/testing-teseting.md
