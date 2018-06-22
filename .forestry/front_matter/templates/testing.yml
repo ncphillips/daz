@@ -9,3 +9,6 @@ fields:
       format: markdown
   label: Test
   name: test
+- type: number
+  name: test_1
+  label: test 1
